@@ -1,0 +1,17 @@
+{
+  "name": "kronometre",
+  "version": "1.0.0",
+  "description": "Kullanicidan alinan sayi yardimiyla kronometre yabimi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch .",
+    "start": "node."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vural-mustafa"
+  },
+  "author": "Mustafa Vural",
+  "license": "ISC"
+}
